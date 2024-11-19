@@ -1,0 +1,137 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    margin-bottom: 0%;
+}
+
+.fondo1 {
+    height: 1000px;
+    width: 300px;
+    margin-top: 0%;
+}
+
+.titulo {
+    margin-left: 43%;
+    margin-bottom: 70%;
+    margin-top: -78%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+
+.encabezado {
+    background-color: rgb(186, 161, 246);
+    height: 250px;
+    width: 1260px;
+    text-align: center;
+    padding-top: 30px;
+    border: 2px solid rgb(190, 164, 246);
+    box-shadow: 0px 0px 20px rgb(190, 164, 230), 0px 0px 20px rgb(190, 164, 230) inset;
+}
+
+.marco {
+    border-radius: 50%;
+    height: 139px;
+    width: 139px;
+    background-color: rgb(185, 150, 236);
+    margin-top: -103%;
+    margin-left: 0%;
+    border: 0px solid rgb(163, 119, 231);
+    box-shadow: 0px 2px 25px rgb(123, 60, 218), 0px 2px 25px rgb(101, 28, 211) inset;
+}
+
+.mariposa {
+    padding-left: 48%;
+    padding-top: 11%;
+    margin-top: 9%;
+}
+
+.cuadro1 {
+    padding-right: 20%;
+    margin-right: 80%;
+    margin-left: -75%;
+    margin-top: -67%;
+    border-radius: 2rem;
+    height: 330px;
+    width: 600px;
+    background-color: rgb(190, 164, 246);
+    position: relative;
+    font-size: larger;
+    border: 2px solid rgb(190, 164, 246);
+    box-shadow: 0px 0px 20px rgb(190, 164, 230), 0px 0px 20px rgb(190, 164, 230) inset;
+}
+
+.logoepet {
+    margin-left: 5%;
+}
+
+.escuelafoto {
+    margin-left: 290px;
+    margin-top: -203px;
+}
+
+.cuadro2 {
+    margin-top: 20%;
+    margin-left: 86%;
+    width: 740px;
+    height: 330px;
+    border-radius: 2rem;
+    background-color: rgb(190, 164, 246);
+    position: relative;
+    border: 2px solid rgb(190, 164, 246);
+    box-shadow: 0px 0px 20px rgb(190, 164, 230), 0px 0px 20px rgb(190, 164, 230) inset;
+}
+
+.visual {
+    margin-top: 4%;
+}
+
+.php {
+    margin-left: 27%;
+    margin-top: -17%;
+}
+
+.html {
+    margin-top: -19%;
+    margin-left: 50%;
+}
+
+.css {
+    margin-top: -23%;
+    margin-left: 60%;
+}
+
+.c {
+    margin-top: -56%;
+    margin-left: -70%;
+}
+
+.cuadro3 {
+    margin-left: -70%;
+    margin-top: 0%;
+    border-radius: 2rem;
+    height: 330px;
+    width: 800px;
+    background-color: rgb(190, 164, 246);
+    position: relative;
+    border: 2px solid rgb(190, 164, 246);
+    box-shadow: 0px 0px 20px rgb(190, 164, 230), 0px 0px 20px rgb(190, 164, 230) inset;
+}
+
+.c1 {
+    margin-left: 17%;
+}
+
+.c2 {
+    margin-left: 55%;
+    margin-top: -26%;
+}
+
+.perfil {
+    margin-left: 1%;
+    border-radius: 50%;
+    height: 140px;
+    width: 140px;
+    margin-top: 35px;
+    display: inline-block;
+}
